@@ -1,4 +1,4 @@
-package chap11;
+package chap11.easy;
 
 public class Application01 {
 
